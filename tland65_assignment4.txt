@@ -1,0 +1,6 @@
+Todd Landry Jr - Assignment 4
+
+avg_city:  16.86 mpg
+avg_hwy:  23.44 mpg
+ford_hwy:  19.36 mpg
+suv_city:  13.5 mpg
