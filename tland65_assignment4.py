@@ -56,7 +56,7 @@ def Calculations():
     suv_city = round(avg(suvs), 2)
 
     #  String conversion / return statement / line formatting to be used in WriteOutput()
-    return 'Todd Landry Jr -  Assignment 4\n\navg_city:  ' + str(avg_city) + ' mpg\navg_hwy:  ' + str(avg_hwy) + ' mpg\nford_hwy:  ' + str(ford_hwy) + ' mpg\nsuv_city:  ' + str(suv_city) + ' mpg'
+    return 'Todd Landry Jr - Assignment 4\n\navg_city:  ' + str(avg_city) + ' mpg\navg_hwy:  ' + str(avg_hwy) + ' mpg\nford_hwy:  ' + str(ford_hwy) + ' mpg\nsuv_city:  ' + str(suv_city) + ' mpg'
 
 
 def WriteOutput():
