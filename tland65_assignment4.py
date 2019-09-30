@@ -57,10 +57,10 @@ def Calculations():
 
 
 def WriteOutput():
+    # Call Calculations() to store the returned variables
+    output = Calculations()
     # Create text file in write mode
     with open('tland65_assignment4.txt', 'w') as txt_file:
-        # Call Calculations() to store the returned variables
-        output = Calculations()
         # Write the output of Calculations() to txt_file
         txt_file.write(output)
 WriteOutput()
